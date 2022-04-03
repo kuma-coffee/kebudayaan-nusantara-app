@@ -17,7 +17,7 @@ export default function Home() {
               src="/kebudayaan.png"
               width="600px"
               height="500px"
-              className="cover"
+              className="select-none cover"
               alt="kebudayaan nusantara"
             />
           </div>
