@@ -18,6 +18,7 @@ export default function Home() {
               width="600px"
               height="500px"
               className="cover"
+              alt="kebudayaan nusantara"
             />
           </div>
           <h1 className="text-6xl font-semibold text-center">
