@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -10,8 +11,16 @@ export default function Home() {
       </Head>
 
       <main>
-        <div className="h-screen flex flex-col justify-center px-64">
-          <h1 className="text-center text-6xl font-semibold">
+        <div className="flex flex-col items-center justify-center h-screen px-64">
+          <div className="flex items-center justify-center w-96 h-96">
+            <Image
+              src="/kebudayaan.png"
+              width="600px"
+              height="500px"
+              className="cover"
+            />
+          </div>
+          <h1 className="text-6xl font-semibold text-center">
             Kebudayaan Nusantara
           </h1>
         </div>
