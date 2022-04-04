@@ -10,8 +10,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <div className="flex flex-col items-center justify-center h-screen px-64">
+      <main className="flex justify-center w-screen">
+        <div className="container flex flex-col items-center justify-center h-screen px-64">
           <div className="flex items-center justify-center w-96 h-96">
             <Image
               src="/kebudayaan.png"
