@@ -9,8 +9,8 @@ export default function about() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <div className="flex flex-col items-center justify-center h-screen px-64">
+      <main className="flex justify-center w-screen">
+        <div className="container flex flex-col items-center justify-center h-screen px-64">
           <h1 className="text-6xl font-semibold text-center">About</h1>
         </div>
       </main>
