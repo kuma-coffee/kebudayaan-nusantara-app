@@ -4,7 +4,7 @@ export default function contacts() {
   return (
     <>
       <Head>
-        <title>Kebudayaan Nusantara | Contacts</title>
+        <title>Kebudayaan Indonesia | Contacts</title>
         <meta name="description" content="About Kebudayaan Nusantara" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
