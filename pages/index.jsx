@@ -22,7 +22,7 @@ export default function Home() {
             />
           </div>
           <h1 className="text-6xl font-semibold text-center">
-            Kebudayaan Nusantara
+            Kebudayaan Indonesia
           </h1>
         </div>
       </main>
